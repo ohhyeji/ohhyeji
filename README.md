@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=FFFFB5&height=130&section=header&text=HyeJi%20Oh&fontSize=50" />
 
 <div align = center>
+<h1>Stack</h1>
+</div>
+
+<div align = center>
 <img alt="Static Badge" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
