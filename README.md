@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=FFFFB5&height=130&section=header&text=HyeJi%20Oh&fontSize=50" />
 
 <div align = center>
-<h1> 🍒 Stacks 🍒</h1>
+<h1> 🍒 Stack 🍒</h1>
 </div>
 
 <div align = center>
