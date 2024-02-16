@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FFFFB5&height=270&section=header&text=HyeJi%20Oh&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FFFFB5&height=180&section=header&text=HyeJi%20Oh&fontSize=70" />
 
 <div align = center>
 <img alt="Static Badge" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
