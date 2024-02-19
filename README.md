@@ -30,4 +30,4 @@
 
 <br>
 <br>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FFFFB5&height=130&section=footer&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FFFFB5&height=80&section=footer&fontSize=50" />
