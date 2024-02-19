@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FFFFB5&height=130&section=header&text=HyeJi%20Oh&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=FFFFB5&height=130&section=header&text=HyeJi%20Oh&fontSize=50" />
 <br>
 <div align = center>
 <h2> 🍒 Stack 🍒</h2>
