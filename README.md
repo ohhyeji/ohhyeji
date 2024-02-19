@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=FFFFB5&height=130&section=header&text=HyeJi%20Oh&fontSize=50" />
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FFFFB5&height=130&section=footer&fontSize=50" />
 
 <div align = center>
 <h1> 🍒 Stack 🍒</h1>
@@ -28,3 +27,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  
 </div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FFFFB5&height=130&section=footer&fontSize=50" />
