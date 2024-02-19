@@ -30,4 +30,3 @@
 
 <br>
 <br>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FFFFB5&height=80&section=footer&fontSize=50" />
